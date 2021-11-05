@@ -1,0 +1,12 @@
+.contact-section{
+    display: flex;
+    margin-top: 50px;
+    justify-content: center;
+    color: white;
+    font-size: 1.8rem;
+
+}
+
+.container .text-clr .form-label{
+    color: white;
+}
